@@ -1,0 +1,8 @@
+#!/bin/bash
+
+if [ whoami = "alfnso" ]
+then
+	echo "Eres alfonso"
+else
+	echo "No eres alfono"
+fi
